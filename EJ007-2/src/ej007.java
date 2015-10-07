@@ -17,7 +17,7 @@ public class ej007 {
         String clave;
         int i, cont = 0;
 
-        System.out.print("- Introduzca la clave de encriptaci�n: ");
+        System.out.print("- Introduzca la clave de encriptación: ");
         clave = Teclado.leerPalabra();
         try {
             wriEn = new FileWriter(encriptado);
