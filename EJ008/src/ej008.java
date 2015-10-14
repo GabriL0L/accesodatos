@@ -29,7 +29,6 @@ public class ej008 {
                 System.out.printf("Nombre: %s\nTeléfono: %d\nDirección: %s\nCódigo Postal: %d\n¿Le debo dinero? %s\nDinero a deber: %.1f",
                         in.readUTF(),in.readInt(),in.readUTF(),in.readInt(),in.readBoolean()?"Si":"No",in.readFloat());
 
-
             out.close();
             in.close();
 
