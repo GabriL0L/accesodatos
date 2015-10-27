@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="xstream">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/xstream" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/xstream" recursive="false" />
+  </library>
+</component>
