@@ -1,0 +1,2 @@
+   direccion: (localidad: Algeciras) SanPedro  telefono: (prefijo: +34) 4578  nombreCont: Manue  codP: 11300  deboMoney: false  cantDeb: (tipoMoneda: Euro) 0.0  
+  direccion: (localidad: Algeciras) SanPedro  telefono: (prefijo: +34) 4578  nombreCont: Rosa  codP: 11300  deboMoney: true  cantDeb: (tipoMoneda: Euro) 14.5  

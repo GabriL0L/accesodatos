@@ -1,0 +1,18 @@
+<ListaContactos>
+    <DatosContacto>
+      <Nombre>Manue</Nombre>
+      <Telefono prefijo="+34">4578</Telefono>
+      <Direccion localidad="Algeciras">SanPedro</Direccion>
+      <CodPostal>11300</CodPostal>
+      <Debo>false</Debo>
+      <Cantidad tipoMoneda="Euro">0.0</Cantidad>
+    </DatosContacto>
+    <DatosContacto>
+      <Nombre>Rosa</Nombre>
+      <Telefono prefijo="+34">4578</Telefono>
+      <Direccion localidad="Algeciras">SanPedro</Direccion>
+      <CodPostal>11300</CodPostal>
+      <Debo>true</Debo>
+      <Cantidad tipoMoneda="Euro">14.5</Cantidad>
+    </DatosContacto>
+</ListaContactos>
